@@ -1,4 +1,4 @@
-# monkeys
+# monkeys high-density EMG and intramuscular recordings
 
 Please read the **Wiki** before running the code in the shared link. 
 
