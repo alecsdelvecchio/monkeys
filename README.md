@@ -1,5 +1,7 @@
 # monkeys high-density EMG and intramuscular recordings
 
+Dataset accessible at the link: https://imperialcollegelondon.box.com/s/2u9b93aw9w5iwoneo6ev4nsxjtjprkuz 
+
 Please read the **Wiki** before running the code in the shared link. 
 
 The code is organized in two folders. 
