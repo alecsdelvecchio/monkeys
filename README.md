@@ -1,4 +1,4 @@
-# monkeys high-density EMG and intramuscular recordings
+# monkeys high-density surface and intramuscular EMG recordings
 
 Dataset accessible at the link: https://imperialcollegelondon.box.com/s/2u9b93aw9w5iwoneo6ev4nsxjtjprkuz 
 
